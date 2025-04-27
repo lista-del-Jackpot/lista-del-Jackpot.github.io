@@ -10,7 +10,7 @@ body{
     box-shadow: 0 0 30px #f63 ;
     padding: 10px 7px;
     boder-radius:15px;
-    border-color:#eee;
+    border:solid 3px #eee;
 }
 .texto{
     text-align: center;
@@ -30,7 +30,7 @@ a{
     padding: 10px 7px;
     box-shadow: 0 0 20px #ff3 ;
     boder-radius:15px;
-    border-color:#eee;
+    border:solid 3px #eee;
 }
 .propuestas{
     background-color: #001 ;
@@ -41,7 +41,7 @@ a{
     padding: 10px 7px;
     box-shadow: 0 0 20px #3f3 ;
     boder-radius:15px;
-    border-color:#eee;
+    border:solid 3px #eee;
 }
 .tarjeta{
     background-color: #001 ;
@@ -52,7 +52,7 @@ a{
     padding: 10px 7px;
     box-shadow: 0 0 20px #33f ;
     boder-radius:15px;
-    border-color:#eee;
+    border:solid 3px #eee;
 }
 .texto1{
     text-align: center;
@@ -72,5 +72,5 @@ subrrallado{
     padding: 10px 7px;
     box-shadow: 0 0 20px #fff ;
     boder-radius:15px;
-    border-color:#eee;
+    border:solid 3px #eee;
 }
