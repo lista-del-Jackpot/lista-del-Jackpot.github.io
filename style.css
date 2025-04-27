@@ -1,21 +1,26 @@
 body{
-    background-color: #000 ;
+    background-image: url(img/fondito.jpg) ;
+    background-size: contain;
+    margin: 0%;
 }    
 .titulo{
-    background-color: #001 ;
+    background-image: url(img/geometric-seamless-pattern\ \(1\).jpg) ;
     max-width: 75%;
     min-width: 70%;
     margin: auto;
-    margin-top: 4%;
-    box-shadow: 0 0 30px #f63 ;
+    margin-top: 0;
+    box-shadow: 0 0 30px #fff ;
     padding: 10px 7px;
-    boder-radius:15px;
-    border:solid 3px #eee;
 }
 .texto{
     text-align: center;
     font-family: tahoma;
-    color: #fff;
+    color: #000;
+}
+.texto1{
+    text-align: center;
+    font-family: tahoma;
+    color:#fff;
 }
 
 a{
@@ -29,8 +34,6 @@ a{
     margin-top: 7%;
     padding: 10px 7px;
     box-shadow: 0 0 20px #ff3 ;
-    boder-radius:15px;
-    border:solid 3px #eee;
 }
 .propuestas{
     background-color: #001 ;
@@ -40,28 +43,21 @@ a{
     margin-top: 7%;
     padding: 10px 7px;
     box-shadow: 0 0 20px #3f3 ;
-    boder-radius:15px;
-    border:solid 3px #eee;
 }
 .tarjeta{
-    background-color: #001 ;
+    background-image: url(img/Patrón\ geométrico\ cubo\ colorido\ _\ Vector\ Premium.jpeg);
     max-width: 45%;
     min-width: 40%;
     margin: auto;
     margin-top: 7%;
+    margin-bottom: 7%;
     padding: 10px 7px;
-    box-shadow: 0 0 20px #33f ;
-    boder-radius:15px;
-    border:solid 3px #eee;
+    box-shadow: 0 0 20px #fff ;
 }
-.texto1{
-    text-align: center;
-    font-family: "tahoma";
-    color: #fff;
-    font-size: 110%;
-}
+
+
 subrrallado{
-    color: #f63;
+    color: #ff0;
 }
 .ide{
     background-color: #001 ;
@@ -71,6 +67,11 @@ subrrallado{
     margin-top: 7%;
     padding: 10px 7px;
     box-shadow: 0 0 20px #fff ;
-    boder-radius:15px;
-    border:solid 3px #eee;
+}
+
+.sombreado{
+    margin-top: 0px;
+    margin-left: 0px;
+    min-height: 1000px;
+    background-color: #000000aa;
 }
