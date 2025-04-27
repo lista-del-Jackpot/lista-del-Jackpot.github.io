@@ -9,6 +9,8 @@ body{
     margin-top: 4%;
     box-shadow: 0 0 30px #f63 ;
     padding: 10px 7px;
+    boder-radius:15px;
+    border-color:#eee;
 }
 .texto{
     text-align: center;
@@ -27,6 +29,8 @@ a{
     margin-top: 7%;
     padding: 10px 7px;
     box-shadow: 0 0 20px #ff3 ;
+    boder-radius:15px;
+    border-color:#eee;
 }
 .propuestas{
     background-color: #001 ;
@@ -36,6 +40,8 @@ a{
     margin-top: 7%;
     padding: 10px 7px;
     box-shadow: 0 0 20px #3f3 ;
+    boder-radius:15px;
+    border-color:#eee;
 }
 .tarjeta{
     background-color: #001 ;
@@ -45,6 +51,8 @@ a{
     margin-top: 7%;
     padding: 10px 7px;
     box-shadow: 0 0 20px #33f ;
+    boder-radius:15px;
+    border-color:#eee;
 }
 .texto1{
     text-align: center;
@@ -63,4 +71,6 @@ subrrallado{
     margin-top: 7%;
     padding: 10px 7px;
     box-shadow: 0 0 20px #fff ;
+    boder-radius:15px;
+    border-color:#eee;
 }
