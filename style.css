@@ -4,7 +4,7 @@ body{
     margin: 0%;
 }    
 .titulo{
-    background-image: url(img/geometric-seamless-pattern\ \(1\).jpg) ;
+    background: linear-gradient(290deg,#ff3 0%, #ff3333 100%);
     max-width: 75%;
     min-width: 70%;
     margin: auto;
@@ -12,17 +12,11 @@ body{
     box-shadow: 0 0 30px #fff ;
     padding: 10px 7px;
 }
-.texto{
+.texto1{
     text-align: center;
     font-family: tahoma;
     color: #000;
 }
-.texto1{
-    text-align: center;
-    font-family: tahoma;
-    color:#fff;
-}
-
 a{
     text-decoration: none;
 }
@@ -45,7 +39,8 @@ a{
     box-shadow: 0 0 20px #3f3 ;
 }
 .tarjeta{
-    background-image: url(img/Patrón\ geométrico\ cubo\ colorido\ _\ Vector\ Premium.jpeg);
+    background: #00b7ff;
+    background: linear-gradient(290deg,#00b7ff 0%, #ff3333 100%);
     max-width: 45%;
     min-width: 40%;
     margin: auto;
@@ -57,7 +52,8 @@ a{
 
 
 subrrallado{
-    color: #ff0;
+    color: #ffffff;
+    text-decoration: underline;
 }
 .ide{
     background-color: #001 ;
